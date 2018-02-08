@@ -1,0 +1,26 @@
+#navigation {
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    background-color:black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.heading a{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color:black;
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+.heading a:hover {
+    background-color: grey;
+}
